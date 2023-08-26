@@ -1,0 +1,146 @@
+1. What is the difference between a Web Browser and a Web Server?
+.web browser using to a application software which is used to browse and display webpages available over the Internet,
+.web server using to a software hosted on a dedicated computer which provides these documents when requested by web browsers.
+
+2. What is a domain?
+. .org ,.in,
+. A domain is a network of computers and devices that are controlled by one set authority and have specific guidelines.
+
+3. What is a web design and basic requirement?
+.Web designers create the design and layout of a website with their technical expertise and knowledge while keeping in mind the client's requirements.
+
+4. Which resolution is better for the perfect design?
+.1920 x 1080
+
+5. Explain problem specification with browser comparability
+
+
+6.is HTML case sensitive?
+.HTML is not a Case Sensitive Language 
+
+7. Explain what is the use of editor and their types?
+.Editors or text editors are software programs that enable the user to create and edit text files
+
+ 8. What is the difference between HTML and XHTML?
+.HTML stands for Hypertext Markup Language, whereas XHTML stands for Extensible Hypertext Markup Language.
+
+9. How many HTML versions are available in market?
+.HTML include HTML 1.0, HTML 2.0, HTML 3.2, HTML 4.01 and XHTML.
+
+10. What is DOCTYPE?
+.doctype is a html5 version name
+
+11. Explain HTML structure?
+html me <html>
+html5 me <!docttype html >
+
+12. What is a caption?
+
+
+13. What is HTML? How HTML tags are formed? Explain HTML comments
+. html is a hyper text markup language
+<--->
+The comment tag is used to insert comments in the source code.
+
+14. What is the use of Anchor tag? Explain two ways to specify URL in href attribute?
+.<a>: The Anchor element. The <a> HTML element (or anchor element), with its href attribute, creates a hyperlink to web pages, files, email addresses, locations in the same page, or anything else a URL can address.
+
+15. Why images are used on web pages?
+.Images are an easy way to improve the user experience of your website.
+
+16. Which html tags are used to create table structure? Explain in brief at leastfive
+.An HTML table consists of one <table> element and one or more <tr>, <th>, and <td> elements.
+
+17. Which attribute allows you to add descriptive text to a table?
+.1.caption
+
+18. Which HTML attribute is used to set the space between cells in an HTML <TABLE> element?
+.The HTML <table> cellspacing Attribute is used to specify the space between the cells. The cellspacing attribute is set in terms of pixels.
+
+19. Which attribute do you use to span table cells across table columns?
+.The colspan attribute defines the number of columns a table cell should span.
+
+20.For a radio button to be marked as on what is the recommended attribute and value?
+.Only one radio button in a group can be selected at the same time. Note: The radio group must have share the same name (the value of the name attribute)
+
+21.HTML Event Attributes onunload fires
+.The onunload attribute fires once a page has unloaded 
+
+22. Relative paths make your hypertext links .
+.Portable
+
+23.In the following example, which type of HTML link is defined?
+<A href="cats.htm">
+. <link rel="stylesheet" href="styles.css">
+
+24. What is the default value of the "target" attribute?
+.A target attribute with the value of “_self” opens the linked document in the same frame as it was clicked 
+
+25.HTML attribute values are usually enclosed in?
+. (“ ”), (' ') .
+
+26.HTML Entities. To display a less than sign we must write:
+. (<): &lt; or &#60
+
+27. What is full form Of URL.
+.Uniform Resource Locator
+
+28.Full form of HTTP.
+.Hypertext Transfer Protocol
+
+29. How to add image in web page ?
+.<img src=”(your image URL here)”>
+
+30. HTML 5 What is a new attribute for both <form> and <input>?
+.The form attribute is used to associate an input , select , or textarea element with a form 
+
+31. HTML What is the internal/wire format of input type="date" in HTML5? 
+(ans. - YYYY-MM-DD)
+
+103.Which has higher priority in Table -- cell settings or table settings ?
+ (ans. Cell settings)
+104.Types of List in HTML. (ans. Ordered, Unordered and Definition list) 
+
+32. Difference between <span> and <div> tag ? 
+.span tag is a not a under defind to a element,
+.div tag is a specific element define,
+
+106.What are the Input types in HTML ? 
+.text,button,color,
+
+33.What are new Input types in included in HTML5 ? 
+. Date, DateTime,time, week, month, email,URL, search, range, color, and number 
+
+108.How to create hyper link in HTML ?
+.<a></a>
+
+34. What is use of <input type=’reset’> ?
+.The reset input type creates a button that resets the form to the default values. 
+
+35. What is use of <nav> tag
+.The <nav> tag is one of the HTML tags that is used to define a set of navigation links. 
+
+36. What is use of <fieldset> tag ?
+.The <fieldset> tag in HTML5 is used to make a group of related elements in the form, and it creates the box over the elements. 
+
+37.How to embed 
+
+38. Javascript in HTML ?
+.Common uses for JavaScript are image manipulation, form validation, and dynamic changes of content. To select an HTML element, 
+
+39.full from to ftp?
+.file transfer protocal	
+
+40.How do we specify line break in HTML ?
+.<br>
+
+41.Which tag used in HTML5 to display video ?
+.<video>
+
+42.Types of CSS
+.inline,internal,external
+
+
+
+
+
