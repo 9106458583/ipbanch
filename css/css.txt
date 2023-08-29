@@ -1,0 +1,98 @@
+43.Types of pchedo classes
+
+44.How to import external CSS in HTML page
+. <link>
+
+45.What does CSS stand for?
+. Cascading Style Sheets
+
+46.Where in an HTML document is the correct place to refer to an external style sheet?
+. Each HTML page must include a reference to the external style sheet file inside the <link> element, inside the head section.
+
+47.What does CSS stand for?
+. Cascading Style Sheets
+
+48.Which HTML tag is used to define an internal style sheet?
+. <style>
+
+49.Which HTML attribute is used to define
+. The style attribute in HTML is used to define the inline style within the HTMl tags.
+
+50.What is HTMl5 Element ?
+. <mark> <meter> <nav>
+
+51.Explain HTML 5 Element ?
+.Represents a piece of content that is only slightly related to the rest of the page.
+
+52.What is the use of CCS 3?
+. It is used with HTML to create and format content structure. 
+
+53.inline styles?
+. inline style using to html tags in line code
+
+54.Which is the correct CSS syntax?
+.A CSS Syntax rule consists of a selector, property, and its value.
+
+55.Which property is used to specify table borders in CSS?
+. border property
+
+56.What is NOT an advantage of using CSS files?
+. you will control the color of the text, the design of fonts,
+
+57.What property defines whether background images scroll along
+. The background-attachment property sets whether a background image scrolls with the rest of the page, or is fixed.
+
+58. with the elementwhen the document is scrolled?
+. scroll top property
+
+59.Which of the following css declarations will create italicized text?
+. You can also italicize text with the CSS font-style property set to italic.
+
+60.What is the CSS shorthand to set a borders top to 10, bottom to 5, left to 20 andright to 1 pixel?
+. border: 10px 1px 5px 20px;
+
+61.Which of the following tells the browser where you want to apply the rule?
+. A CSS selector is the first part of a CSS Rule. 
+
+62.Why will the following declaration not work? p { margin-right:80 px;}
+. You cannot see the effect of margin-right because the 'width' property of div causes the margin of div to have more than 10px distance from the right wall of the body.
+
+63.What do you need to change in order to visually modify a button on mouseover?
+. To make a button hover, you can use CSS. You can add a hover effect to a button by setting the button's CSS :hover pseudo-class. 
+
+64.True or False: The borders of an element can vary only up to 2 sides
+. False
+
+65.Which is correct use of border-radius?
+. The border-radius CSS property rounds the corners of an element's outer border edge. 
+
+66.How do you insert a comment in a CSS file?
+. to comment in CSS, simply place your plain text inside /* */ marks.
+
+67.Which property is used to change the background color?
+. background-color property is used to change the background color of an element.
+
+68.Which CSS property is used to change the text color of an element? 
+. The 'color' property in CSS is used to change the text color of an HTML element.
+
+69.Which CSS property controls the text size?
+. font-size
+
+70.What is the correct CSS syntax for making elements bold?
+. p {font-weight: bold}.
+
+71.Types of element positioning in CSS?
+. static, relative, absolute, fixed, or sticky
+
+72.How to handle content overflow in element
+. The overflow property helps you manage an element's content overflow.
+
+73.What is padding ?
+. Padding is used to create space around an element's content, inside of any defined borders.
+
+74.Which property is used to change the left margin of an element?
+. margin-left CSS property
+
+75.TRUE/FALSE – CSS is case sensitive?
+. true
+

@@ -1,0 +1,22 @@
+76.JavaScript is developed by
+. JavaScript was invented by Brendan Eich in 1995. 
+
+77.Which of the following attribute of form tag is not set by using document objectin JavaScript?
+
+78.Javascript is a typed language.
+. JavaScript is a weakly typed programming language because you do not have to specify the variable type in advance.
+
+79.What property would you use to redirect a visitor to another page?
+. To redirect to a new URL or page, you assign the new URL to the location. href property or use the location.
+
+80.What are the following looping structures are available in javascripts?
+.for,for/in,for/of,while 
+
+81.What is mean by "this" keyword in javascript?
+.JavaScript “this” keyword. “This” keyword refers to an object that is executing the current piece of code.
+
+82.Are java and javascript the same?
+. While Java is an object-based programming language, JavaScript is an OOP(object-oriented program.
+
+83.Choose the client-side JavaScript object
+.
